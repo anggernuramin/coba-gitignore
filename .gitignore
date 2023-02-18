@@ -1,2 +1,5 @@
 # mendaftarkan file json ke .gitignore , agar saat kita melakukan add dan commit file,file configurasi.json tdk mengalamai perubahan
 configurasi.json
+
+data/
+*.exe
